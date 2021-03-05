@@ -1,6 +1,6 @@
 # clock-time-qt
 
-## In this code, with the help of qt the time and date can be displayed using the ubantu terminal.
+# In this code, with the help of qt the time and date can be displayed using the ubantu terminal.
 
 ### Steps to run-
 
