@@ -10,4 +10,4 @@ In this code, with the help of qt the time and date can be displayed using the u
 4. ./clock
 
 
-![picture](Screenshot from 2021-03-05 13-48-06.png)
+![picture](clock.png)
